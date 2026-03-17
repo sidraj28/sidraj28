@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Siddhant Raj
 
-<!--
-**sidraj28/sidraj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech CSE Student | AI & Web Developer  
+💡 Building projects like Binman & Farmshield  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- JavaScript, React, Node.js
+- Python, AI/ML
+- Firebase, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔹 Binman – Smart Waste Management Platform
+- 🔹 Farmshield – IoT-based farm protection
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/siddhant-raj-7ab257250
+- Email: siddhantraj284@gmail.com
